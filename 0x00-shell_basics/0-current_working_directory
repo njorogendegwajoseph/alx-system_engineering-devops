@@ -1,1 +1,2 @@
-#!/bin/bash ./o-current_working_director \n
+#!/bin/bash
+./0-current_working_director \n
