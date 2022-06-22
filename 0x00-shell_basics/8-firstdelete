@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /temp/m_first_directory rm betty
+cd /temp/m_first_directory/ rm betty
