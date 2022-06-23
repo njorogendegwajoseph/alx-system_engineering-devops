@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chmod 777 hello
+#!/bin/bash 
+chmod u=rwx,g=rwx,o=rwx hello
