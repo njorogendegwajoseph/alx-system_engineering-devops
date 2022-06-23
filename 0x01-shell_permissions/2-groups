@@ -1,2 +1,2 @@
 #!/bin/bash
-cat ../user
+id -nG
