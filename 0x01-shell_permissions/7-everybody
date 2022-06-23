@@ -1,3 +1,3 @@
 #!/bin/bash 
-chmod 555 hello
+chmod u=x,g=x,o=x hello
 
