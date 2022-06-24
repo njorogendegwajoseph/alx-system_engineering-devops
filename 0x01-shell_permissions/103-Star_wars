@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet towel.starwars.IV
+vlc_player.StarwarsIV.play
