@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 #!/usr/bin/env bash
 # list all bash processes
 # shellcheck disable=SC2009
+=======
+#!/usr/bin/env bash
+# list all bash processes
+# shellcheck disable=SC2009
+>>>>>>> 2a09ac1efb4bfc3cb2835a21aa0c71e75fa1925b
 ps -auxf | grep bash

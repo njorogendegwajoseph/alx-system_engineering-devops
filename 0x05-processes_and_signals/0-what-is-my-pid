@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 #!/usr/bin/env bash
 # my pid
 
 sleep 5 &
+=======
+#!/usr/bin/env bash
+# my pid
+
+sleep 5 &
+>>>>>>> 2a09ac1efb4bfc3cb2835a21aa0c71e75fa1925b
 echo "$!"
