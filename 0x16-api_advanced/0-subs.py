@@ -2,16 +2,20 @@
 
 
 """
-    number of subscribers for a given subreddit
+
+number of subscribers for a given subreddit
+
 """
 
 from requests import get
 
 def number_of_subscribers(subreddit):
 
-"""
+    """
+    
     function queries the reddit API, returns the number of subscrbers for a given subreddit
-"""
+
+    """     
 
     if subreddit is None or not isinstance(subreddit, str):
         return 0
